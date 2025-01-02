@@ -51,7 +51,6 @@ Learning:
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexwoodroof&theme=github_dark" alt="Alex's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=alexwoodroof&theme=github_dark" alt="Alex's Contribution Streak"/></td>
-
     </tr>
  </table>
 
