@@ -26,7 +26,7 @@
 
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,typescript,nextjs,docker,html,css,firebase,postgresql)
+![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,typescript,nextjs,docker,html,css,firebase,postgresql,java)
 
 <!-- Learning: 
 
