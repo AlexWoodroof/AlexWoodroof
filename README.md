@@ -20,13 +20,13 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <h1>🛠️ Languages and Tools:</h1>
 </div>
 
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,typescript,nextjs,docker,html,css,firebase,postgresql,java)
+![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,typescript,nextjs,docker,html,css,firebase,postgresql,java) -->
 
 <!-- Learning: 
 
