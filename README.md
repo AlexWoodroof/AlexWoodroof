@@ -34,8 +34,8 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<!-- <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, and collaborations! Dive in to check out the milestones of my digital journey!</p> -->
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexwoodroof&theme=github_dark" alt="Alex's GitHub Stats"/></td>   
