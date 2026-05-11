@@ -5,7 +5,7 @@
 
 <div align="center">
 <!--     <h2>🚀 About Me</h2> -->
-    <p>I'm a no longer a Student but still specialise in Computer Science. I enjoy playing piano, watching Formula 1 and attempting to build things (I fail constantly).</p>
+    <p>I'm a no longer a Student but still specialise in Computer Science. I enjoy playing piano, watching Formula 1 and attempting to build things (sometimes with success).</p>
 </div>
 
 <div align="center">
